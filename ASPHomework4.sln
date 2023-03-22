@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPHomework4_1", "ASPHomework4_1\ASPHomework4_1.csproj", "{CA387508-6C6D-4C64-81B0-DBB17EA7CAEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA387508-6C6D-4C64-81B0-DBB17EA7CAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA387508-6C6D-4C64-81B0-DBB17EA7CAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA387508-6C6D-4C64-81B0-DBB17EA7CAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA387508-6C6D-4C64-81B0-DBB17EA7CAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DBAEA56-F779-4B8F-8877-E02A8A94C064}
+	EndGlobalSection
+EndGlobal
